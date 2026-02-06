@@ -3,7 +3,7 @@
 
 
 **I'm Q**
-<img src="https://github-readme-stats.vercel.app/api?username=Q-1515&show_icons=true&theme=buefy&count_private=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/></br>
+
 一只后端开发工程师，Java Development Engineer 
 
 
@@ -21,6 +21,4 @@
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 ![Redis](https://img.shields.io/badge/-Redis-CB3837?style=flat-square&logo=Redis&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-1515&theme=buefy&layout=compact" alt="logo" height="160" width = "383" align="right" style="margin: 5px; margin-bottom: 20px;"/></br>
 
